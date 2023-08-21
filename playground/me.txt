@@ -1,5 +1,0 @@
-{{#user}}
-Name: Pijush Sarker
-Skills: HTML, CSS, JS, Next.js, React.js, Express.js, MongoDb, Node.js, Firebase, Redux.
-Email: pijushsarker636@gmail.com
-{{/user}}
